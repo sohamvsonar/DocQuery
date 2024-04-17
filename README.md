@@ -8,6 +8,12 @@
 - Question Answering: The application uses LangChain to answer questions based on the content of the uploaded PDF.
 - Error Handling: Comprehensive error handling to provide users with clear feedback in case of any issues.
 
+## Screenshots
+
+![](https://github.com/sohamvsonar/DocQuery/blob/main/SS1.jpg)
+
+![](https://github.com/sohamvsonar/DocQuery/blob/main/SS2.jpg)
+
 ## Installation
 
 1. Clone the repository:
