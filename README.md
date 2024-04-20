@@ -28,7 +28,7 @@
 
 ## Usage
 
-1. Run the application
+1. Run the application.
     ```bash
     streamlit run your_app.py
 
