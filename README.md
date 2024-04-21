@@ -23,7 +23,7 @@
     ```bash
     pip install langchain streamlit PyPDF2 FAISS
 
-3. Google Palm API Key
+3. Google Palm API Key.
 #### This project uses the Google Palm API for language processing. To use the Google Palm API, you'll need to obtain an API key from   the Google Cloud Console. Once you have the API key, Replace "your_google_api_key" with your actual Google API key.
 
 ## Usage
