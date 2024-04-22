@@ -47,4 +47,4 @@
 6. Create a new pull request.
 
 ## Contact
-- For any inquiries or support, please contact soham.sonar427@gmail.com.
+- For any inquiries or support, please contact at soham.sonar427@gmail.com.
