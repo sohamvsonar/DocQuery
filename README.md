@@ -48,4 +48,4 @@
 
 ## Contact
 - For any inquiries or support, please contact at soham.sonar427@gmail.com.
-- You can connect with me on linkedIn at https://www.linkedin.com/in/sohamsonar23/.
+- You can connect with me on linkedIn @ https://www.linkedin.com/in/sohamsonar23/.
