@@ -32,7 +32,7 @@
     ```bash
     streamlit run your_app.py
 
-2. Access the application in your web browser at http://localhost:8501
+2. Access the application in your web browser at http://localhost:8501.
 
 3. Upload a PDF file and start asking questions about its content.
 
