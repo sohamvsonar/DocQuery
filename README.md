@@ -4,7 +4,7 @@
 
 ## Features
 - PDF Upload: Users can upload a PDF file containing text.
-- Chat Interface: Users can interact with the application through a chat interface.
+- Chat Interface: Users can interact with the application through a chat inerface.
 - Question Answering: The application uses LangChain to answer questions based on the content of the uploaded PDF.
 - Error Handling: Comprehensive error handling to provide users with clear feedback in case of any issues.
 
